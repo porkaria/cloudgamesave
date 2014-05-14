@@ -1,4 +1,7 @@
 <?php
+
+// opa
+
 /**
  *
  *
@@ -18,3 +21,7 @@
 
 // teste
 require 'webroot' . DIRECTORY_SEPARATOR . 'index.php';
+
+$config = array();
+
+unset($config);
